@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Có đôi lời muốn lói ví bạn như nề
     `,
     btnIntro: '^^Ỏ^^',
-    desc: 'bạn xú  tính hệ, ngựa ghê ',
+    desc: 'bạn xú  tính hệ, ngựa ghêê ',
     btnYes: 'đúng r sao biết hay dz',
     btnNo: 'Không nha :3',
     title: 'Hỏi mấy cái phát nè 🥰',
