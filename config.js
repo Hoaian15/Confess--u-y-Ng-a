@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb: "D biết tiêu đề gì:>>",
+    titleWeb: "Đ biết tiêu đề gì:>>",
     introTitle: 'kong vịt',
-    introDesc: `Cò đôi lời muốn lói ví bạn như nề
+    introDesc: `Coó đôi lời muốn lói ví bạn như nề
     `,
     btnIntro: '^^HiHi^^',
     title: 'Hỏi mấy cái phát nè 🥰',
