@@ -14,12 +14,5 @@ const CONFIG = {
     btnNo: 'xú tính giống bạn:>',
     question: 'bạn wúy mềnh hung',
     btnReply: ' Gửi chụy',
-    reply: 'wuý quá trời quá đất'
-    question: 'mềnh chẳng bịp bạn bh nhể',
-    btnReply: 'Gửi cho chụy nà',
-    reply: 'đúng ròi chỉ có mình bịp thoy',
-    mess: 'Mình biết mà.wúy bạn nhìu 😘😘',
-    messDesc: 'Chúc bạn ngủ giật mình cà tưng cà tưng he',
-    btnAccept: 'ò b ngụ ngon hơn',
-    messLink: 'https://github.com/zukahai/Confess-Đũy Ngựa' //https://www.facebook.com/profile.php?id=100057913908804
+    reply: 'wuý quá trời quá đất',
 }
