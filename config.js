@@ -6,7 +6,7 @@ const CONFIG = {
     btnIntro: '^^Ỏ^^',
     desc: ' bạn thấy mềnh như nào?;;',
     btnYes: 'tốt quá trời  quá đất;>',
-    btnNo: ' Xú tính như mình',
+    btnNo: ' Xú tính như mình-.-',
     question: 'mềnh chẳng bịp bạn bh nhể',
     btnReply: 'Gửi cho chụy nà',
     reply: 'đúng ròi chỉ có mình bịp thoy',
