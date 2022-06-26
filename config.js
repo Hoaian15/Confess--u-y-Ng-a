@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'kong vịt',
     introDesc: `Coó đôi lời muốn lói ví bạn như nề
     `,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '^^Ỏ^^',
     title: 'Hỏi mấy cái phát nè 🥰',
     desc: 'bạn xú  tính hệ, ngựa ghê ',
     btnYes: 'đúng r sao biết hay dz',
@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'đúng ròi chỉ có mình bịp thoy',
     mess: 'Mình biết mà wúy bạn nhìu 😘😘',
-    messDesc: 'Tí đừng ngủ hé',
-    btnAccept: 'Okêêê',
+    messDesc: 'Nhớ là nhớ mềnh rố',
+    btnAccept: 'Kê luôn nề',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
