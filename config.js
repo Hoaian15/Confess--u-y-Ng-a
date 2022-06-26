@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     introDesc: 'Hỏi mấy cái phát nè 🥰',
     btnIntro: '^^Ỏ^^',
-    desc: 'bạn thấy mềnh như lào',
+    desc: 'bạn thấy mềnh như nào',
     btnYes: 'người chi mà tốt ác ',
     btnNo: 'xú tính giống bạn:>',
     question: 'bạn wúy mềnh hung',
