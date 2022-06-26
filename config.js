@@ -9,9 +9,9 @@ const CONFIG = {
     btnYes: 'đúng r sao biết hay dz',
     btnNo: 'Không nha :3',
     question: 'mềnh chẳng bịp bạn bh nhể',
-    btnReply: 'Gửi cho bạn <3',
+    btnReply: 'Gửi cho chụy',
     reply: 'đúng ròi chỉ có mình bịp thoy',
-    mess: 'Mình biết mà wúy bạn nhìu 😘😘',
+    mess: 'Mình biết mà. wúy bạn nhìu 😘😘',
     messDesc: 'Nhớ là nhớ mềnh rố',
     btnAccept: 'Kê luôn nề',
     messLink: 'https://github.com/zukahai/Confess-Đũy Ngựa' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
