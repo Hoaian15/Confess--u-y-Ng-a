@@ -9,7 +9,7 @@ const CONFIG = {
     btnYes: 'đúng r sao biết hay dz',
     btnNo: 'Không nha :3',
     question: 'mềnh chẳng bịp bạn bh nhể',
-    btnReply: 'Gửi cho chụy này',
+    btnReply: 'Gửi cho chụy nà',
     reply: 'đúng ròi chỉ có mình bịp thoy',
     mess: 'Mình biết mà. wúy bạn nhìu 😘😘',
     question: 'Nhớ là nhớ mềnh rố',
