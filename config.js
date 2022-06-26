@@ -4,10 +4,6 @@ const CONFIG = {
     introDesc: `Có đôi lời muốn lói ví bạn như nề
     `,
     btnIntro: '^^Ỏ^^',
-    desc: 'bạn xú  tính hệ, ngựa ghê ',
-    btnYes: 'đúng r sao biết hay dz',
-    btnNo: 'Không nha :3',
-    introDesc: 'Hỏi mấy cái phát nè 🥰',
     desc: 'bạn wúy mềnh hung',
     btnYes: 'wúy quá trời quá đất',
     btnNo: 'Hơi Hơi:?',
