@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Đêm  rảnh đ có chi gòy mần chơi dz",
     introTitle: 'kong vịt',
-    introDesc: `Có đôi lời muốn lói ví bạn như nề
+    introDesc: `Có đôi lời muốn lói ví bạn như nềy
     `,
     btnIntro: '^^Ỏ^^',
     desc: ' bạn thấy mềnh như nào?;;',
