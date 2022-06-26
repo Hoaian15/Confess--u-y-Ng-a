@@ -1,12 +1,12 @@
 const CONFIG = {
-    titleWeb: "Đ biết tiêu đề gì:>>",
+    titleWeb: "Đêm  rảnh đ có chi gòy mần v",
     introTitle: 'kong vịt',
     introDesc: `Coó đôi lời muốn lói ví bạn như nề
     `,
     btnIntro: '^^HiHi^^',
     title: 'Hỏi mấy cái phát nè 🥰',
-    desc: 'gòy hỏi đi ',
-    btnYes: 'Thích lắm <33',
+    desc: 'bạn xú  tính hệ, ngựa ghê ',
+    btnYes: 'đúng r sao biết hay dz',
     btnNo: 'Không nha :3',
     question: 'mềnh chẳng bịp bạn bh nhể',
     btnReply: 'Gửi cho bạn <3',
