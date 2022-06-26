@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà.wúy bạn nhìu 😘😘',
     messDesc: 'Chúc bạn ngủ giật mình cà tưng cà tưng he',
     btnAccept: 'ò b ngụ ngon hơn',
-    messLink: 'https://github.com/zukahai/Confess-Đũy Ngựa' //https://www.facebook.com/profile.php?id=100057913908804
+    messLink: 'https://github.com/zukahai/Confess-Đũy Ngựa' 
 }
