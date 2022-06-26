@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Đêm  rảnh đ có chi gòy mần v",
     introTitle: 'kong vịt',
-    introDesc: `Coó đôi lời muốn lói ví bạn như nề
+    introDesc: `Có đôi lời muốn lói ví bạn như nề
     `,
     btnIntro: '^^Ỏ^^',
     title: 'Hỏi mấy cái phát nè 🥰',
@@ -13,6 +13,6 @@ const CONFIG = {
     reply: 'đúng ròi chỉ có mình bịp thoy',
     mess: 'Mình biết mà. wúy bạn nhìu 😘😘',
     question: 'Nhớ là nhớ mềnh rố',
-    reply: 'iem biết r'
+    reply: 'iem biết r',
     messLink: 'https://github.com/zukahai/Confess-Đũy Ngựa' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
