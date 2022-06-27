@@ -10,5 +10,8 @@ const CONFIG = {
     question: 'mềnh chẳng bịp bạn bh nhể',
     btnReply: 'Gửi cho chụy nà',
     reply: 'đúng ròi chỉ có mình bịp thoy',
+    question: ' bạn xú tính hệ, ngựa ghê-.-',
+    btnReply: 'Gửi cho chụy nà',
+    reply: 'ò cái nết nó dz',
     messLink: 'https://github.com/zukahai/Confess-Đũy Ngựa' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
     }
